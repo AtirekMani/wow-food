@@ -1,3 +1,7 @@
+# About project
+
+Wow-Food, is a food delivery web application developed using Angular. It allows users to browse a dynamic menu, add items to a cart, view an order summary with tax/discount calculation, and submit feedback. It simulates login and stores user-specific data like cart items, feedback, and order history using a mock backend (json-server).
+
 # WowFood
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
